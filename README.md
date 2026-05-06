@@ -28,4 +28,4 @@ This software is provided "as is", **without any warranty**.
 
 ## 👤 Author
 
-- [IXWHA](https://github.com/ixaliom)
+- [IXWHA](https://github.com/ixhwa)
